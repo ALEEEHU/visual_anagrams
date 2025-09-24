@@ -11,9 +11,11 @@ Optical illusions using stable diffusion v1-5 "runwayml/stable-diffusion-v1-5" (
     - [Classic Duck-Rabbit Concept](#classic-duck-rabbit-concept-1)
     - [Dog-Cat Concept](#dog-cat-concept-1)
 
-## 90-degree Flip Illusion Examples
+# 90 & 180 degree Flip Illusion Tests
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ALEEEHU/visual_anagrams/blob/main/IllusionDiffusion.ipynb)<br>
+
+## 90-degree Flip Illusion Examples
 
 ### Classic Duck-Rabbit Concept
 
