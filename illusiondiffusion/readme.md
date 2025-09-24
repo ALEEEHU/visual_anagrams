@@ -1,8 +1,6 @@
 # Illusion Diffusion
 Optical illusions using stable diffusion v1-5 "runwayml/stable-diffusion-v1-5" (for vae and unet) 
 
-Flip illusion means 180-degree rotation illusion.
-
 ## Table of Contents
 - [Illusion Diffusion](#illusion-diffusion)
   - [Table of Contents](#table-of-contents)
@@ -42,8 +40,7 @@ https://github.com/user-attachments/assets/9edcd246-d1c6-49ef-9d09-9bb6ab468fb0
 https://github.com/user-attachments/assets/83c1c84b-3ca4-48dc-8566-89282dca89b1
 
 
-## ## 90-degree Rotation Illusion Examples
-180-degree rotation illusion = flip illusion
+## 180-degree Rotation Illusion Examples
 
 ### Classic Duck-Rabbit Concept
 
