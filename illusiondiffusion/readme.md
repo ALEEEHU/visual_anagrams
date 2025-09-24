@@ -16,7 +16,7 @@ Optical illusions using stable diffusion v1-5 "runwayml/stable-diffusion-v1-5" (
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ALEEEHU/visual_anagrams/blob/main/IllusionDiffusion.ipynb)<br>
 
 ## 90-degree Rotation Illusion Examples 
-IllusionDiffusion samples on 90-degree rotation illusion are counter-clockwiese.
+IllusionDiffusion samples on 90-degree rotation illusion are counter-clockwise.
 
 ### Classic Duck-Rabbit Concept
 
