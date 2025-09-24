@@ -1,21 +1,23 @@
 # Illusion Diffusion
 Optical illusions using stable diffusion v1-5 "runwayml/stable-diffusion-v1-5" (for vae and unet) 
 
+Flip illusion means 180-degree rotation illusion.
+
 ## Table of Contents
 - [Illusion Diffusion](#illusion-diffusion)
   - [Table of Contents](#table-of-contents)
-  - [90-degree Flip Illusion Examples](#90-degree-flip-illusion-examples)
+  - [90-degree Rotation Illusion Examples](#90-degree-rotation-illusion-examples)
     - [Classic Duck-Rabbit Concept](#classic-duck-rabbit-concept)
     - [Dog-Cat Concept](#dog-cat-concept)
-  - [180-degree Flip Illusion Examples](#180-degree-flip-illusion-examples)
+  - [180-degree Rotation Illusion Examples](#180-degree-rotation-illusion-examples)
     - [Classic Duck-Rabbit Concept](#classic-duck-rabbit-concept-1)
     - [Dog-Cat Concept](#dog-cat-concept-1)
 
-# 90 & 180 degree Flip Illusion Tests
+# 90 & 180 degree Rotation Illusion Tests
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ALEEEHU/visual_anagrams/blob/main/IllusionDiffusion.ipynb)<br>
 
-## 90-degree Flip Illusion Examples
+## 90-degree Rotation Illusion Examples
 
 ### Classic Duck-Rabbit Concept
 
@@ -40,7 +42,8 @@ https://github.com/user-attachments/assets/9edcd246-d1c6-49ef-9d09-9bb6ab468fb0
 https://github.com/user-attachments/assets/83c1c84b-3ca4-48dc-8566-89282dca89b1
 
 
-## 180-degree Flip Illusion Examples
+## ## 90-degree Rotation Illusion Examples
+180-degree rotation illusion = flip illusion
 
 ### Classic Duck-Rabbit Concept
 
