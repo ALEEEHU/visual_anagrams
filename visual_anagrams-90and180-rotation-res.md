@@ -24,23 +24,38 @@ Here is the copy of the colab [link](https://colab.research.google.com/drive/1Ux
 
 - first prompt: "**a duck**", second prompt: "**a rabbit**"
   
-https://github.com/user-attachments/assets/442b20c0-4a82-40de-9a45-2faf173371a7
+
+
+https://github.com/user-attachments/assets/f7cac09d-fa8a-4975-8282-fe98fec71bf3
+
+
 
 - first prompt: "**a rabbit**", second prompt: "**a duck**"
   
-https://github.com/user-attachments/assets/f070b5ce-5902-4dd7-b3e7-cd9ffb0ccbc4
+
+
+https://github.com/user-attachments/assets/745ad8f8-50c2-4a8f-821d-7140f74ecd8e
+
 
 
 ### Dog-Cat Concept
 
 - first prompt: "**a dog**", second prompt: "**a cat**"
   
-https://github.com/user-attachments/assets/9edcd246-d1c6-49ef-9d09-9bb6ab468fb0
+
+
+https://github.com/user-attachments/assets/5c766f7f-04a6-4b3e-9169-328e63201907
+
+
 
 
 - first prompt: "**a cat**", second prompt: "**a dog**"
   
-https://github.com/user-attachments/assets/83c1c84b-3ca4-48dc-8566-89282dca89b1
+
+
+
+https://github.com/user-attachments/assets/8bacbed2-7400-488c-a772-e5e49bd00cb9
+
 
 
 ## 180-degree Rotation Illusion Examples
@@ -50,7 +65,11 @@ https://github.com/user-attachments/assets/83c1c84b-3ca4-48dc-8566-89282dca89b1
 - first prompt: "**a duck**", second prompt: "**a rabbit**"
 
 
-https://github.com/user-attachments/assets/b3cfaf67-234e-430c-98aa-008a66b2aa63
+
+
+https://github.com/user-attachments/assets/37c49970-a31e-4407-88fe-d5bb4e59a418
+
+
 
 
 
@@ -58,7 +77,11 @@ https://github.com/user-attachments/assets/b3cfaf67-234e-430c-98aa-008a66b2aa63
 
 
 
-https://github.com/user-attachments/assets/ac123fe4-3ffb-43e5-9a11-0663ea88b7db
+
+https://github.com/user-attachments/assets/002c8c8e-6521-4047-8622-a639f60a0fe8
+
+
+
 
 
 
@@ -67,12 +90,19 @@ https://github.com/user-attachments/assets/ac123fe4-3ffb-43e5-9a11-0663ea88b7db
 - first prompt: "**a dog**", second prompt: "**a cat**"
 
 
-https://github.com/user-attachments/assets/d0d8c7ef-5062-475d-86e4-35d2d9214109
+
+https://github.com/user-attachments/assets/471ad45f-125a-49d3-9a57-e92edf0cee02
+
 
 
 
 - first prompt: "**a cat**", second prompt: "**a dog**"
 
-https://github.com/user-attachments/assets/6e28bd59-4efa-40bb-a13f-46ec4c6777ed
+
+
+
+
+https://github.com/user-attachments/assets/175a577c-f882-4017-b77a-d9e6bb02d812
+
 
 
