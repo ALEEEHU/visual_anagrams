@@ -4,6 +4,13 @@
 
 2. 90-degree rotation illusion (counter-clockwise)
 
+## Test Examples Code Readme
+
+| Method               | Readme                                | 
+| -------------------- | ---------------------------------------------------- |
+| Visual_anagrams      | [Readme](https://github.com/ALEEEHU/visual_anagrams/blob/main/visual_anagrams-90and180-rotation-res.md) |
+| IllusionDiffusion    |        [Readme](https://github.com/ALEEEHU/visual_anagrams/tree/main/illusiondiffusion/readme.md)     |
+
 **IllusionDiffusion Codes: see folder illusiondiffusion**
 
 ---
