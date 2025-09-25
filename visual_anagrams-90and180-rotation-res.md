@@ -16,7 +16,7 @@ Compared with IllusionDiffusion, I don't think this results are better than illu
 
 # 90 & 180 degree Rotation Illusion Tests
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ALEEEHU/visual_anagrams/blob/main/visual_anagrams.ipynb)<br>
+Here is the copy of the colab [link](https://colab.research.google.com/drive/1UxFXPSOMeS44-141NY52_rBUaoia5ysT?usp=sharing)
 
 ## 90-degree Rotation Illusion Examples 
 
@@ -74,4 +74,5 @@ https://github.com/user-attachments/assets/d0d8c7ef-5062-475d-86e4-35d2d9214109
 - first prompt: "**a cat**", second prompt: "**a dog**"
 
 https://github.com/user-attachments/assets/6e28bd59-4efa-40bb-a13f-46ec4c6777ed
+
 
