@@ -5,6 +5,7 @@
 1. Test codes: Visual anagrams and IllusionDiffusion
 
 2. 90-degree rotation illusion (counter-clockwise)
+3. Hyperparameters codes are in `hyperparameters` branch.
 
 ## Test Examples Code Readme
 
