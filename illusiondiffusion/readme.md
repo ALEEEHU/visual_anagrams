@@ -4,6 +4,7 @@ Optical illusions using stable diffusion v1-5 "runwayml/stable-diffusion-v1-5" (
 ## Table of Contents
 - [Illusion Diffusion](#illusion-diffusion)
   - [Table of Contents](#table-of-contents)
+  - [4 Separate Sweep-guidance_scale](#4-separate-sweep)
   - [90-degree Rotation Illusion Examples](#90-degree-rotation-illusion-examples)
     - [Classic Duck-Rabbit Concept](#classic-duck-rabbit-concept)
     - [Dog-Cat Concept](#dog-cat-concept)
