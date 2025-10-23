@@ -11,6 +11,10 @@ Optical illusions using stable diffusion v1-5 "runwayml/stable-diffusion-v1-5" (
     - [Classic Duck-Rabbit Concept](#classic-duck-rabbit-concept-1)
     - [Dog-Cat Concept](#dog-cat-concept-1)
 
+# 4 Separate Sweep
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ALEEEHU/visual_anagrams/blob/main/““IllusionDiffusion_ipynb”_4_Separate_Sweep.ipynb)<br>
+
 # 90 & 180 degree Rotation Illusion Tests
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ALEEEHU/visual_anagrams/blob/main/IllusionDiffusion.ipynb)<br>
